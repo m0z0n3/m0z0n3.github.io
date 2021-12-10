@@ -12,10 +12,6 @@ body {
 p {font-size: 40px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 color: FFD700;}
-li {font-size: 60px;
-  font-family: 'Courier New', Courier, monospace;
-  color: yellow;
-}
 
 h2 {font-size: 100px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
@@ -33,7 +29,7 @@ h3 {font-size: 20px;
     color: FFD700;
     }
  img {margin-left: 650;}
- l {font-size: 40px;
+ li {font-size: 40px;
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   text-align: center;
   color: FFD700;}
