@@ -12,8 +12,9 @@ body {
 p {font-size: 40px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 color: FFD700;}
-li {font-size: 40px;
+li {font-size: 60px;
   font-family: 'Courier New', Courier, monospace;
+  color: FFD700;
 }
 
 h2 {font-size: 100px;
