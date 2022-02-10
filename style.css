@@ -1,7 +1,7 @@
 h1 {font-size: 120px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 text-align: center;
-color: FFD700;
+color: #FFFFFF;
 }
 body {
   background-image: url("backround.png");
@@ -11,26 +11,26 @@ body {
 
 p {font-size: 40px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-color: FFD700;}
+color: #FFFFFF;}
 
 h2 {font-size: 100px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 text-align: center;
-color: FFD700;
+color: #FFFFFF;
 }
 h3 {font-size: 20px;
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   text-align: left;
-  color: FFD700;
+  color: #FFFFFF;
   }
  h4 {font-size: 20px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
     text-align: center;
-    color: FFD700;
+    color: #FFFFFF;
     }
  img {margin-left: 650;}
  li {font-size: 40px;
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   text-align: center;
-  color: FFD700;}
+  color: #FFFFFF;}
   
