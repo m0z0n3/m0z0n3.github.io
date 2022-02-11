@@ -33,4 +33,9 @@ h3 {font-size: 30px;
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   text-align: center;
   color: #FFFFFF;}
+  tr {
+    font-size: 30px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+  }
   
