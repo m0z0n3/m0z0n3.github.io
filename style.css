@@ -4,7 +4,7 @@ text-align: center;
 color: #FFFFFF;
 }
 body {
-  background-image: url("backround.png");
+  background-image: url("backround.png"), url(backround2.png);
   background-size: 51%;
   background-color: #cccccc;
  }
