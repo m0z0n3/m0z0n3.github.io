@@ -1,17 +1,17 @@
 h1 {font-size: 120px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 text-align: center;
-color: #FFFFFF;
+color: #00205c;
 }
 body {
   background-image: url("backround.png");
   background-size: 51%;
-  background-color: #cccccc;
+  background-color: #00205c;
  }
 
 p {font-size: 40px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-color: #FFFFFF;}
+color: #00205c;}
 
 h2 {font-size: 100px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
