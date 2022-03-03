@@ -1,7 +1,7 @@
 h1 {font-size: 120px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 text-align: center;
-color: #004fe0;
+color: #ffffff;
 }
 body {
   background-image: url("backround.png");
@@ -11,31 +11,31 @@ body {
 
 p {font-size: 40px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-color: #004fe0;}
+color: #ffffff;}
 
 h2 {font-size: 100px;
 font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 text-align: center;
-color: #004fe0;
+color: #ffffff;
 }
 h3 {font-size: 30px;
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   text-align: left;
-  color: #004fe0;
+  color: #ffffff;
   }
  h4 {font-size: 20px;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
     text-align: center;
-    color: #004fe0;
+    color: #ffffff;
     }
  img {margin-left: 650;}
  li {font-size: 40px;
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   text-align: center;
-  color: #004fe0;}
+  color: #ffffff;}
   tr {
     font-size: 30px;
-    color: #004fe0;
+    color: #ffffff;
     font-family: sans-serif;
   }
   .center {
