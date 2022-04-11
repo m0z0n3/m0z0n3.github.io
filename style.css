@@ -1,5 +1,15 @@
-H1 {
+h1 {
   color: black;
   font-size: 50px;
   text-align: center;
+}
+h2 {
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+h3 {
+  color: black;
+  font-size: 20px;
+  text-align: right;
 }
