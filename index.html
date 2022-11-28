@@ -1,8 +1,101 @@
 <html><head>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-<h1>Vampire Trio Commics</h1>
-<h2>Comics</h2>
-<a href="A1ComicFinished.pdf">Augustus' day out</a>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Who would win this fight? Tap both buttons to begin!</h1>
+
+
+    
+    <script>
+    
+      let x = 0;
+      
+    
+      const button = document.createElement('button')
+
+      
+      button.innerText = 'Fighter A'
+
+      button.id = 'mainButtonA'
+
+      
+      button.addEventListener('click', () => {
+        var r_text = new Array ();
+r_text[0] = "Barry Bee Benson";
+r_text[1] = "Issabelle";
+r_text[2] = "Charizard";
+r_text[3] = "Statue Of Liberty";
+r_text[4] = "Danny Devito";
+r_text[5] = "Sauron";
+r_text[6] = "Obama";
+r_text[7] = "Yoda";
+r_text[8] = "Matt From Wii Sports";
+r_text[9] = "Santa";
+
+var i = Math.floor(r_text.length * Math.random());
+
+document.getElementById("text1").innerText = (
+r_text[i]);
+      
+       document.getElementById("victoriesA").innerText = ++x;
+       document.getElementById("victoriesB").innerText = 0;
+       y = 0
+       
+      })
+      
+
+      document.body.appendChild(button)
+      </script>
+    <script>
+    
+      let y = 0;
+      
+    
+      const button0 = document.createElement('button')
+
+      
+      button0.innerText = 'Fighter B'
+
+      button0.id = 'mainButtonB'
+
+      
+      button0.addEventListener('click', () => {
+        
+
+var r_text = new Array ();
+r_text[0] = "Dwayne The Rock Johnson";
+r_text[1] = "Giga Chad";
+r_text[2] = "Shrek";
+r_text[3] = "Doggo";
+r_text[4] = "Tom Nook";
+r_text[5] = "Sonic";
+r_text[6] = "Average Redditor";
+r_text[7] = "Amoung Us Guy";
+r_text[8] = "Cthulu";
+r_text[9] = "Stalin";
+var i = Math.floor(r_text.length * Math.random());
+
+document.getElementById("text0").innerText = (
+r_text[i]);
+
+
+      
+       document.getElementById("victoriesB").innerText = ++y;
+       document.getElementById("victoriesA").innerText = 0;
+       x = 0
+      })
+      
+
+      document.body.appendChild(button0)
+      </script>
+
+    <h2>Fighter A has won this many times in a row</h2>
+    <div id="victoriesA"></div>
+    <h2>Fighter B has won this many times in a row</h2>
+    <div id="victoriesB"></div>
+    <h3>Fighter A is...</h3>
+    <div id="text0", style="text-align:center;"></div>
+    <h4>Fighter B is...</h4>
+    <div id="text1", style="text-align:center;"></div>
+    <h5>This game is a WIP I made it just as something to have fun coding with. I hop to make a bit more refined and maybe add a ranking system someday.</h5>
 </body></html>
